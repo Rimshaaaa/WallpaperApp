@@ -15,7 +15,7 @@ Memi is a wallpaper app built using React Native with Expo that allows users to 
 
 # Installation
 **Clone the repository:**
-git clone https://github.com/Rimshaaaa/WallpaperApp.git
+git clone https://github.com/Rimshaaaa/WallpaperApp
 
 **Install dependencies:**
 npm install
