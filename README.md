@@ -27,4 +27,4 @@ Scan the QR code with the Expo Go app to run the app on your device.
 
 ## App Screenshots
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./screenshot.png)
